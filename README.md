@@ -7,14 +7,14 @@ This is a Telegram bot list repository that collects and shares commonly used bo
 
 - **Music 🎵**  
   [Spotify Music Downloader](https://t.me/spotify_downloa_bot) - Here you can search, listen, and download tens of millions of tracks and albums from your favorite artists.  
-  [Spotify BOT](https://t.me/spotify_to_mp3_bot) - Search, listen and download tens of millions of tracks through the Spotify database.
-  [Deezer Music](https://telegram.me/DeezerMusicBot) - 🤖Bot with music from Deezer, Spotify, SoundCloud, VK.
-  [Let's Music](https://telegram.me/VmomoVBot) - 音乐搜索，Music Search.
-  [Classical Music](https://telegram.me/music) - This bot can help you find beautiful classical music.
-  [Finder Music | Музыка](https://telegram.me/fmusbot) - FinderMusic — поиск музыки по всему миру!
-  [VK Music Bot](https://telegram.me/vkmusic_bot) - Listen to and download any music! 
-  [YouTube to MP3](https://t.me/convert_youtube_to_mp3_bot) - Convert and download YouTube videos to MP3 (audio) files and play music for free.  
-  [MP3 Tools](https://t.me/mp3toolsbot) - MP3 Tools is a handy Telegram bot offering multiple functionalities to manage your MP3 files.  
+  [Spotify BOT](https://t.me/spotify_to_mp3_bot) - Search, listen and download tens of millions of tracks through the Spotify database.  
+  [Deezer Music](https://telegram.me/DeezerMusicBot) - 🤖Bot with music from Deezer, Spotify, SoundCloud, VK.  
+  [Let's Music](https://telegram.me/VmomoVBot) - 音乐搜索，Music Search.  
+  [Classical Music](https://telegram.me/music) - This bot can help you find beautiful classical music.  
+  [Finder Music | Музыка](https://telegram.me/fmusbot) - FinderMusic — поиск музыки по всему миру!  
+  [VK Music Bot](https://telegram.me/vkmusic_bot) - Listen to and download any music!   
+  [YouTube to MP3](https://t.me/convert_youtube_to_mp3_bot) - Convert and download YouTube videos to MP3 (audio) files and play music for free.    
+  [MP3 Tools](https://t.me/mp3toolsbot) - MP3 Tools is a handy Telegram bot offering multiple functionalities to manage your MP3 files.    
 
 ### Art & Design 🎨
 
